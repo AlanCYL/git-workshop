@@ -17,6 +17,7 @@
 <br>
 ex:
 <br>
+
 | Windows  | MacOS/Linux | 說明                        |
 | -------- | ----------- | -------------------------- |
 | cd       | pwd         | 顯示目前所在路徑              |
@@ -28,9 +29,11 @@ ex:
 | move     | mv     | 移動檔案   move  |
 | del     | rm     | 刪除檔案    remove |
 | cls     | clear     | 清除畫面上的內容     |
+
 <br>
 ex:
 <br>
+
 ```bash=
 git config --global user.name "ashleylai"
 git config --global user.email "ashleylai58@gmail.com"
