@@ -14,6 +14,7 @@
 <br><br><br>
 
 * _複習git以及github_
+<br>
 老師先向我們再次說明什麼是 **git** ，以及 **git** 的重要性，補充了很多當時華如學姊尚未詳述的地方，因此對 **git** 的使用又更加地了解。老師也再次的教關於[終端機(Terminal)](https://zh.wikipedia.org/zh-tw/%E7%BB%88%E7%AB%AF_(macOS))，以及[git](https://zh.wikipedia.org/zh-tw/Git)的使用方式。
 <br>
 ex:
